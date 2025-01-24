@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Aditya Raj<br>👀 I’m interested in web dev, system design, and AI development.<br>🌱 I’m currently learning C, C++, DBMS, web dev<br>📫 Reach me? adityarajwk@gmail.com<br>
+👋 Hi, I’m Aditya Raj<br>👀 I’m interested in web dev, system design, and AI development.<br>📫 Reach me? adityarajwk@gmail.com<br>
 
 
 ## 🌐 Socials:
